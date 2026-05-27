@@ -11,7 +11,7 @@ This project constructs an isolated software-defined virtual network bridge and 
 ### System Telemetry Dashboard
 Below is the live validation telemetry captured during operational testing, demonstrating real-time query resolution and threat mitigation:
 
-![SASE Live Dashboard](.github/screenshots/dashboard-telemetry.png)
+![SASE Live Dashboard](screenshots/dashboard-telemetry.png)
 
 ### Key Boundary Metrics:
 * **Total Network Queries Processed:** 17

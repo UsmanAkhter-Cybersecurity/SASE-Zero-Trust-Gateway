@@ -14,7 +14,7 @@ Configured basic network settings to route traffic through a secure egress tunne
 ### System Telemetry Dashboard
 Below is the live validation telemetry captured during operational testing, demonstrating real-time query resolution and threat mitigation:
 
-![SASE Live Dashboard](screenshots/dashboard-telemetry.png)
+![SASE Live Dashboard](screenshots/dashboard-telemetry.png.png)
 
 ### Key Boundary Metrics:
 * **Total Network Queries Processed:** 17

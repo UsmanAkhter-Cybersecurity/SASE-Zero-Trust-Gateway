@@ -1,8 +1,11 @@
-# 🛡️ Containerized SASE Web Gateway & Zero-Trust Egress Sandbox
+# 🛡️ Guided Lab: Setting Up a Secure Web Gateway Sandbox
 
-An enterprise-grade, containerized **Secure Access Service Edge (SASE)** boundary plane engineered and validated as a self-guided cloud infrastructure project. 
+This is a practical, hands-on learning lab where I followed technical deployment instructions to understand basic secure routing principles. The goal of this project was to get comfortable using Docker and configure a system that routes outbound traffic through a secure tunnel edge.
 
-This project constructs an isolated software-defined virtual network bridge and implements a proactive threat-intelligence sinkhole to intercept malicious outbound traffic and command-and-control (C2) callback vectors, routing verified requests safely through an encrypted, outbound-only cloud tunnel edge.
+What I learned to do in this lab:
+
+Followed step-by-step deployment documentation to spin up containerized environments.
+Configured basic network settings to route traffic through a secure egress tunnel.
 
 ---
 

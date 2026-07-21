@@ -49,7 +49,7 @@ services:
       - "80:80/tcp"
     environment:
       TZ: 'UTC'
-      WEBPASSWORD: 'SecureCapstonePassword123!'
+      WEBPASSWORD: '${PIHOLE_PASSWORD}'
       DNS1: '1.1.1.1'
       DNS2: '1.0.0.1'
     volumes:
